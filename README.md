@@ -2,7 +2,7 @@
 
 This is simple fps game written in go
 
-![Screen shot](https://raw.githubusercontent.com/jjinux/gotetris/master/screen_shot.png)
+![Screen shot](https://raw.githubusercontent.com/QwanoW/go-fps/main/preview.png)
 
 ### Run directly
     go run github.com/QwanoW/go-fps@latest
