@@ -3,7 +3,7 @@
 This is simple fps game written in go
 
 ### Run directly
-`go run github.com/QwanoW/go-fps@latest`
+    go run github.com/QwanoW/go-fps@latest
 
 ### Install
-`go get github.com/QwanoW/go-fps`
+    go get github.com/QwanoW/go-fps
