@@ -1,0 +1,1 @@
+## Golang's implementation of [OneLoneCoder's](https://github.com/OneLoneCoder/CommandLineFPS) FPS
