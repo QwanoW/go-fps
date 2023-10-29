@@ -1,4 +1,4 @@
-## Golang's implementation of [OneLoneCoder](https://github.com/OneLoneCoder/CommandLineFPS)'s FPS
+## Golang implementation of [OneLoneCoder](https://github.com/OneLoneCoder/CommandLineFPS)'s FPS
 
 This is simple fps game written in go
 
