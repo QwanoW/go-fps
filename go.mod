@@ -1,4 +1,4 @@
-module go-fps
+module github.com/QwanoW/go-fps
 
 go 1.21.3
 
